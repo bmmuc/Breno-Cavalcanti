@@ -1,9 +1,11 @@
 ### Hi, I'am Breno. 👋
 
 I'm a Brazilian guy who somehow doesn't like to stand still, I'm a graduate student of computer engineering who has a lot of curiosity to study about data science.
-- 🔭 I’m currently working in the CITi, a junior company of the UFPE. 
+- 🔭 I’m currently working in the Neurotech. 
+- 🔭 I’m currently working a researcher at RoboCin, a robotic team of the cin-ufpe.
 - 🌱 I’m currently learning data science (I really like to read about and try somethings) and dev web.
   <br />
+ 
 
 Technologies I've been learning and using so far:
   - Programming languages:  <br />
