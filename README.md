@@ -2,7 +2,7 @@
 
 I'm a Brazilian guy who somehow doesn't like to stand still, I'm a graduate student of computer engineering who has a lot of curiosity to study about data science.
 - 🔭 I’m currently working in the Neurotech. 
-- 🔭 I’m currently working a researcher at RoboCin, a robotic team of the cin-ufpe.
+- 🔭 I’m currently working a researcher at RobôCin, a robotic team of the cin-ufpe.
 - 🌱 I’m currently learning data science (I really like to read about and try somethings) and dev web.
   <br />
  
